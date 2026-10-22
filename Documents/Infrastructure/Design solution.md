@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Estilos
     classDef client fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff;
@@ -46,3 +47,4 @@ graph TD
     U2 == Colaboração em tempo real ==> VM1
     
     Pasta1 <-->|4. Sincronização Isolada| GDrive
+```
